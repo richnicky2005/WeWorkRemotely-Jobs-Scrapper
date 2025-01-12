@@ -1,0 +1,1 @@
+This project is a Python-based web scraping script designed to extract job listings from websites like We Work Remotely. The script uses the requests library for fetching web pages and BeautifulSoup from the bs4 package for parsing and extracting job-related data
